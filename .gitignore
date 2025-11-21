@@ -1,0 +1,7 @@
+﻿*.h5
+*.hdf5
+saved_model/
+data/
+__pycache__/
+venv/
+.ipynb_checkpoints/
